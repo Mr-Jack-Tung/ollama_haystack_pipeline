@@ -1,3 +1,5 @@
 # Ollama haystack pipeline
 
 Thấy cái cách haystack pipeline hoạt động là đã muốn test thử xem thế nào rồi. Và kết quả rất Ok nhé ^^
+
+~> làm theo demo ở đây https://docs.haystack.deepset.ai/docs/get_started , nhưng lại muốn dùng ollama thay cho ChatGPT cơ , nên phải dùng thêm cái này https://docs.haystack.deepset.ai/docs/ollamagenerator . Ok vậy là cũng xong :D
