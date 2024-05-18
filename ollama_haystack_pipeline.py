@@ -34,7 +34,7 @@ prompt_builder = PromptBuilder(template=prompt_template)
 # llm = OpenAIGenerator(api_key=api_key)
 
 from haystack_integrations.components.generators.ollama import OllamaGenerator
-llm = OllamaGenerator(model="phi3",
+llm = OllamaGenerator(model="mistral",
                             url = "http://localhost:11434/api/generate",
                             generation_kwargs={
                               "num_predict": 100,
